@@ -1,8 +1,9 @@
 
-https://github.com/user-attachments/assets/6c67ccc5-c87a-419c-84eb-7fdc3a6b1296
 # 🏦 Banking API
 
 Author : Shivani Sharma
+
+Please checkout below Demo videos!
 
 A **FastAPI-based internal banking API** that simulates essential financial operations such as customer onboarding, account management, balance checks, and money transfers.
 
