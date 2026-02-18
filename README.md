@@ -210,8 +210,5 @@ https://github.com/user-attachments/assets/f3e2e7f3-e233-4b2c-86db-9bbaf3e9094b
 https://github.com/user-attachments/assets/9d146901-1ba1-40b2-915b-a654580201bd
 
 
-[project_setup_notes.pdf](https://github.com/user-attachments/files/25400797/project_setup_notes.pdf)
-
-https://github.com/user-attachments/assets/ddd24d4b-7fc0-42e6-880d-38a8bab0401e
 
 
