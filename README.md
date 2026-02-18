@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/6c67ccc5-c87a-419c-84eb-7fdc3a6b1296
 # 🏦 Banking API
 
 Author : Shivani Sharma
@@ -202,13 +204,10 @@ This project is development-focused. Before moving to production, the following 
 https://github.com/user-attachments/assets/6b68cbc6-f2e3-4d19-9e7a-6cd64ef3bea9
 
 
-https://github.com/user-attachments/assets/d7d81583-d9b4-4e6d-b162-ca8792ac4495
-
-
-https://github.com/user-attachments/assets/f3e2e7f3-e233-4b2c-86db-9bbaf3e9094b
-
 https://github.com/user-attachments/assets/9d146901-1ba1-40b2-915b-a654580201bd
 
+https://github.com/user-attachments/assets/47fc2a50-74ee-4db5-bfc9-3bbaf2ed4559
 
+https://github.com/user-attachments/assets/192c214e-079a-47b7-81ed-7f8bcce25475
 
 
