@@ -199,8 +199,23 @@ This project is development-focused. Before moving to production, the following 
 - Use Gunicorn + Uvicorn workers
 ----
 
+https://github.com/user-attachments/assets/6b68cbc6-f2e3-4d19-9e7a-6cd64ef3bea9
+
+
+[project_setup_notes.pdf](https://github.com/user-attachments/files/25400794/project_setup_notes.pdf)
+
+
+https://github.com/user-attachments/assets/d7d81583-d9b4-4e6d-b162-ca8792ac4495
+
+
+
 Important points:
 
 <img width="517" height="246" alt="image" src="https://github.com/user-attachments/assets/4782f6d9-67e3-4e7a-8127-83cb2d1f0237" />
+
+
+[project_setup_notes.pdf](https://github.com/user-attachments/files/25400797/project_setup_notes.pdf)
+
+https://github.com/user-attachments/assets/ddd24d4b-7fc0-42e6-880d-38a8bab0401e
 
 
